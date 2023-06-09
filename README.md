@@ -10,4 +10,6 @@ Benim işletim sistemi linux kullandıgımdan dolayı
 
 python3 tkinter.py ile rahatlıkla calistirabilirsiniz
 
+NOT -> 3 dosyanın da aynı klasör içerisinde olmasına dikkat ediniz !
+
 Teşekkürler
